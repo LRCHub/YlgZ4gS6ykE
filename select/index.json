@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Sticky",
+  "base_artist": "Ravyn Lenae",
+  "createdAt": "2026-03-23T14:46:39.102691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sticky Thread",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/01_Sticky_Thread_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sticky Drama",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": false,
+      "path": "select/02_Sticky_Drama_Oneohtrix_Point_Never.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sticky",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Sticky_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sticky",
+      "artist": "Keke Palmer",
+      "has_synced": true,
+      "path": "select/04_Sticky_Keke_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Sticky",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/05_The_Sticky_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sticky Wicked",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/06_Sticky_Wicked_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sticky Ricki",
+      "artist": "Adam Green",
+      "has_synced": true,
+      "path": "select/07_Sticky_Ricki_Adam_Green.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Numbers In Action (Sticky Remix)",
+      "artist": "Wiley",
+      "has_synced": false,
+      "path": "select/08_Numbers_In_Action_(Sticky_Remix)_Wiley.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One More Night (Sticky K Remix)",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/09_One_More_Night_(Sticky_K_Remix)_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sticky Wickets",
+      "artist": "The Duckworth Lewis Method",
+      "has_synced": true,
+      "path": "select/10_Sticky_Wickets_The_Duckworth_Lewis_Method.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Whipped Cream Waterfalls (Don't Go Chasing Them, You Might Get Sticky)",
+      "artist": "Eskimeaux",
+      "has_synced": true,
+      "path": "select/11_Whipped_Cream_Waterfalls_(Don't_Go_Chasing_Them,_You_Might_Get_Sticky)_Eskimeaux.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wrestlers (Sticky Dirty Pop Mix)",
+      "artist": "Hot Chip",
+      "has_synced": false,
+      "path": "select/12_Wrestlers_(Sticky_Dirty_Pop_Mix)_Hot_Chip.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sticky Sweet",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/13_Sticky_Sweet_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sticky Like Glue",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/14_Sticky_Like_Glue_Prince.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New World Disorder (feat. Sticky Fingaz)",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/15_New_World_Disorder_(feat._Sticky_Fingaz)_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sticky 1",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/16_Sticky_1_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sticky Fingers In Your Honey",
+      "artist": "Skunk Anansie",
+      "has_synced": true,
+      "path": "select/17_Sticky_Fingers_In_Your_Honey_Skunk_Anansie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sticky Teenage Twin",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/18_Sticky_Teenage_Twin_Snow_Patrol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sticky",
+      "artist": "Ravyn Lenae",
+      "has_synced": false,
+      "path": "select/pl_01_Sticky_Ravyn_Lenae.txt"
+    }
+  ]
+}
